@@ -1,0 +1,731 @@
+{
+  "a": [
+    {
+      "pregunta": "Con la A. Insecto de color amarillo y negro que produce miel y cera.",
+      "respuesta": "Abeja",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la A. Sentimiento de afecto e inclinación hacia una persona o cosa a la que se le desea todo lo bueno.",
+      "respuesta": "Amor",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la A. Ciencia que estudia la composición y estructura de los cuerpos celestes, su posición y las leyes que rigen sus movimientos.",
+      "respuesta": "Astronomía",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la A. País sudamericano cuya capital es Buenos Aires.",
+      "respuesta": "Argentina",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la A. Vehículo provisto de alas, que, propulsado por uno o varios motores, es capaz de volar.",
+      "respuesta": "Avión",
+      "dificultad": "niños"
+    }
+  ],
+  "b": [
+    {
+      "pregunta": "Con la B. Mamífero marino de gran tamaño, el más grande del planeta.",
+      "respuesta": "Ballena",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la B. Objeto hueco, generalmente de goma, que se llena de aire o gas y sirve como juguete o adorno.",
+      "respuesta": "Globo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la B. País sudamericano famoso por el fútbol, el carnaval y el río Amazonas.",
+      "respuesta": "Brasil",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la B. Ciencia que estudia la estructura de los seres vivos y de sus procesos vitales.",
+      "respuesta": "Biología",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la B. Edificio donde se conservan y leen libros.",
+      "respuesta": "Biblioteca",
+      "dificultad": "niños"
+    }
+  ],
+  "c": [
+    {
+      "pregunta": "Con la C. Edificio de una o pocas plantas destinado a vivienda unifamiliar.",
+      "respuesta": "Casa",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la C. Mamífero équido, domesticado desde la antigüedad para ser usado como montura o animal de tiro.",
+      "respuesta": "Caballo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la C. Apellido del autor de 'Don Quijote de la Mancha'.",
+      "respuesta": "Cervantes",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la C. País de Sudamérica cuya capital es Bogotá.",
+      "respuesta": "Colombia",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la C. Parte del cuerpo humano que contiene el cerebro.",
+      "respuesta": "Cabeza",
+      "dificultad": "niños"
+    }
+  ],
+  "d": [
+    {
+      "pregunta": "Con la D. Reptil que vivió en la prehistoria, de gran tamaño y ya extinguido.",
+      "respuesta": "Dinosaurio",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la D. Cada una de las terminaciones de las manos y los pies.",
+      "respuesta": "Dedo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la D. País europeo cuya capital es Copenhague.",
+      "respuesta": "Dinamarca",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la D. Apellido del pintor español, máximo representante del surrealismo, famoso por sus bigotes.",
+      "respuesta": "Dalí",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la D. Gema de carbono puro cristalizado, el más brillante y duro de los minerales.",
+      "respuesta": "Diamante",
+      "dificultad": "niños"
+    }
+  ],
+  "e": [
+    {
+      "pregunta": "Con la E. Mamífero paquidermo de gran tamaño, con trompa prensil, grandes orejas y dos colmillos de marfil.",
+      "respuesta": "Elefante",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la E. Cuerpo celeste que brilla con luz propia en el firmamento.",
+      "respuesta": "Estrella",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la E. País europeo cuya capital es Madrid.",
+      "respuesta": "España",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la E. Apellido del físico alemán que desarrolló la teoría de la relatividad.",
+      "respuesta": "Einstein",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la E. Utensilio para barrer, formado por un haz de ramas o fibras flexibles sujeto a un mango.",
+      "respuesta": "Escoba",
+      "dificultad": "niños"
+    }
+  ],
+  "f": [
+    {
+      "pregunta": "Con la F. Emisión de luz y calor producida por la combustión de una materia.",
+      "respuesta": "Fuego",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la F. Órgano reproductor de las plantas, generalmente de colores vistosos.",
+      "respuesta": "Flor",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la F. País europeo famoso por la Torre Eiffel y el Museo del Louvre.",
+      "respuesta": "Francia",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la F. Ciencia que estudia las propiedades de la materia y de la energía.",
+      "respuesta": "Física",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la F. Parte del rostro humano situada sobre los ojos.",
+      "respuesta": "Frente",
+      "dificultad": "niños"
+    }
+  ],
+  "g": [
+    {
+      "pregunta": "Con la G. Mamífero felino doméstico.",
+      "respuesta": "Gato",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la G. Objeto esférico que se utiliza en muchos deportes y juegos.",
+      "respuesta": "Globo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la G. País europeo considerado la cuna de la civilización occidental.",
+      "respuesta": "Grecia",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la G. Apellido del autor de 'Cien años de soledad'.",
+      "respuesta": "García Márquez",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la G. Mamífero africano, el más alto de todos los animales terrestres.",
+      "respuesta": "Jirafa",
+      "dificultad": "niños"
+    }
+  ],
+  "h": [
+    {
+      "pregunta": "Con la H. Agua convertida en cuerpo sólido y cristalino por un descenso suficiente de temperatura.",
+      "respuesta": "Hielo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la H. Cuerpo redondeado, de diferente tamaño y dureza, que producen las hembras de las aves y que contiene el germen del embrión.",
+      "respuesta": "Huevo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la H. Héroe de la mitología griega, hijo de Zeus y Alcmena, famoso por sus doce trabajos.",
+      "respuesta": "Hércules",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la H. Apellido del director de cine autor de películas como 'Psicosis' o 'Los Pájaros'.",
+      "respuesta": "Hitchcock",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la H. Mamífero paquidermo que vive en los grandes ríos de África y tiene la boca y la cabeza muy grandes.",
+      "respuesta": "Hipopótamo",
+      "dificultad": "niños"
+    }
+  ],
+  "i": [
+    {
+      "pregunta": "Con la I. Porción de tierra rodeada de agua por todas partes.",
+      "respuesta": "Isla",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la I. Estación del año que transcurre entre el otoño y la primavera, caracterizada por ser la época más fría.",
+      "respuesta": "Invierno",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la I. País europeo con forma de bota, famoso por su gastronomía y su historia.",
+      "respuesta": "Italia",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la I. Red informática mundial, descentralizada, formada por la conexión directa entre computadoras.",
+      "respuesta": "Internet",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la I. Reptil saurio americano, de gran tamaño, con una papada grande y una cresta espinosa desde el cuello hasta la cola.",
+      "respuesta": "Iguana",
+      "dificultad": "niños"
+    }
+  ],
+  "j": [
+    {
+      "pregunta": "Con la J. Pastilla o pieza que se usa con agua para lavarse.",
+      "respuesta": "Jabón",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la J. Actividad que se realiza con fin recreativo o de diversión.",
+      "respuesta": "Juego",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la J. País asiático conocido como la tierra del sol naciente.",
+      "respuesta": "Japón",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la J. Nombre del dictador romano que fue asesinado en los idus de marzo.",
+      "respuesta": "Julio César",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la J. Mamífero salvaje, variedad del cerdo, que tiene la cabeza aguda, el pelo grueso y los colmillos grandes y salientes.",
+      "respuesta": "Jabalí",
+      "dificultad": "niños"
+    }
+  ],
+  "k": [
+    {
+      "pregunta": "Con la K. Unidad de masa del Sistema Internacional, que equivale a 1000 gramos.",
+      "respuesta": "Kilo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la K. Fruto de pulpa verde y piel vellosa.",
+      "respuesta": "Kiwi",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la K. País africano famoso por sus safaris y su gran diversidad de fauna.",
+      "respuesta": "Kenia",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la K. Apellido del escritor checo autor de 'La metamorfosis'.",
+      "respuesta": "Kafka",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la K. Mamífero marsupial arborícola de Australia, de aspecto similar a un oso de peluche.",
+      "respuesta": "Koala",
+      "dificultad": "niños"
+    }
+  ],
+  "l": [
+    {
+      "pregunta": "Con la L. Único satélite natural de la Tierra.",
+      "respuesta": "Luna",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la L. Mamífero felino de gran tamaño, conocido como el 'rey de la selva'.",
+      "respuesta": "León",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la L. Capital de Inglaterra y del Reino Unido.",
+      "respuesta": "Londres",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la L. Apellido del inventor y artista florentino del Renacimiento italiano, autor de 'La Gioconda'.",
+      "respuesta": "Leonardo da Vinci",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la L. Conjunto de hojas de papel, manuscritas o impresas, unidas por uno de sus lados.",
+      "respuesta": "Libro",
+      "dificultad": "niños"
+    }
+  ],
+  "m": [
+    {
+      "pregunta": "Con la M. Extremidad del cuerpo humano que va desde la muñeca hasta la punta de los dedos.",
+      "respuesta": "Mano",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la M. Mujer que ha tenido uno o más hijos.",
+      "respuesta": "Madre",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la M. País de América del Norte cuya capital es Ciudad de México.",
+      "respuesta": "México",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la M. Apellido del compositor y pianista austriaco, considerado uno de los músicos más influyentes de la historia.",
+      "respuesta": "Mozart",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la M. Insecto con dos pares de alas membranosas, a menudo de colores vistosos.",
+      "respuesta": "Mariposa",
+      "dificultad": "niños"
+    }
+  ],
+  "n": [
+    {
+      "pregunta": "Con la N. Masa de vapor de agua suspendida en la atmósfera.",
+      "respuesta": "Nube",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la N. Fruto del naranjo, comestible, de forma redonda y color anaranjado.",
+      "respuesta": "Naranja",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la N. País europeo famoso por sus fiordos y auroras boreales.",
+      "respuesta": "Noruega",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la N. Apellido del militar y estadista francés que fue emperador de los franceses.",
+      "respuesta": "Napoleón",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la N. Parte del cuerpo humano que se encuentra entre los ojos y la boca y que sirve para respirar y oler.",
+      "respuesta": "Nariz",
+      "dificultad": "niños"
+    }
+  ],
+  "ñ": [
+    {
+      "pregunta": "Con la Ñ. Ave corredora americana, de gran tamaño, similar al avestruz.",
+      "respuesta": "Ñandú",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Ñ. Mamífero rumiante africano, de la familia de los antílopes, que vive en grandes manadas.",
+      "respuesta": "Ñu",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Ñ. Personaje de la serie 'El Chavo del 8', hijo del Señor Barriga.",
+      "respuesta": "Ñoño",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la Ñ. Tipo de pasta italiana elaborada con patata, harinas y queso.",
+      "respuesta": "Ñoqui",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Ñ. Nombre que se le da en algunos países de América a un roedor de gran tamaño, también conocido como agutí.",
+      "respuesta": "Ñeque",
+      "dificultad": "adultos"
+    }
+  ],
+  "o": [
+    {
+      "pregunta": "Con la O. Mamífero plantígrado de gran tamaño, cuerpo macizo y pelaje denso.",
+      "respuesta": "Oso",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la O. Órgano de la visión en el ser humano y en los animales.",
+      "respuesta": "Ojo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la O. Metal precioso de color amarillo brillante, muy valorado en joyería.",
+      "respuesta": "Oro",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la O. Conjunto de instrumentistas que interpretan obras musicales, sinfónicas o de cámara, bajo la dirección de un director.",
+      "respuesta": "Orquesta",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la O. Mamífero rumiante domesticado, del que se aprovechan la lana, la carne y la leche.",
+      "respuesta": "Oveja",
+      "dificultad": "niños"
+    }
+  ],
+  "p": [
+    {
+      "pregunta": "Con la P. Mamífero carnívoro doméstico, considerado el mejor amigo del hombre.",
+      "respuesta": "Perro",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la P. Objeto esférico que se utiliza en numerosos juegos y deportes.",
+      "respuesta": "Pelota",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la P. País sudamericano famoso por las ruinas de Machu Picchu.",
+      "respuesta": "Perú",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la P. Apellido del pintor y escultor español, creador del cubismo.",
+      "respuesta": "Picasso",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la P. Ave marina no voladora que habita en el hemisferio sur, principalmente en la Antártida.",
+      "respuesta": "Pingüino",
+      "dificultad": "niños"
+    }
+  ],
+  "q": [
+    {
+      "pregunta": "Con la Q. Producto lácteo sólido obtenido por maduración de la cuajada de la leche.",
+      "respuesta": "Queso",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Q. Número que sigue al catorce.",
+      "respuesta": "Quince",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Q. Personaje principal de la obra de Miguel de Cervantes.",
+      "respuesta": "Quijote",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la Q. Ciencia que estudia la composición, estructura y propiedades de la materia.",
+      "respuesta": "Química",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la Q. Ave trepadora de América Central, de plumaje verde y rojo muy vistoso, considerada sagrada por los mayas y aztecas.",
+      "respuesta": "Quetzal",
+      "dificultad": "adultos"
+    }
+  ],
+  "r": [
+    {
+      "pregunta": "Con la R. Mamífero roedor de pequeño tamaño, hocico puntiagudo y cola larga.",
+      "respuesta": "Ratón",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la R. Flor del rosal, de pétalos grandes y espinas en el tallo, muy apreciada por su belleza y fragancia.",
+      "respuesta": "Rosa",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la R. Capital de Italia, famosa por el Coliseo y el Vaticano.",
+      "respuesta": "Roma",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la R. Apellido del pintor y grabador neerlandés, maestro del barroco y autor de 'La ronda de noche'.",
+      "respuesta": "Rembrandt",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la R. Anfibio sin cola, de piel lisa y color verde, que vive en charcos y lagunas.",
+      "respuesta": "Rana",
+      "dificultad": "niños"
+    }
+  ],
+  "s": [
+    {
+      "pregunta": "Con la S. Estrella luminosa, centro de nuestro sistema planetario.",
+      "respuesta": "Sol",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la S. Plato de comida líquido que se sirve caliente, elaborado con caldo y diversos ingredientes.",
+      "respuesta": "Sopa",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la S. País europeo escandinavo cuya capital es Estocolmo.",
+      "respuesta": "Suecia",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la S. Apellido del dramaturgo, poeta y actor inglés, autor de 'Hamlet' y 'Romeo y Julieta'.",
+      "respuesta": "Shakespeare",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la S. Reptil sin patas, de cuerpo largo y cilíndrico, cubierto de escamas.",
+      "respuesta": "Serpiente",
+      "dificultad": "niños"
+    }
+  ],
+  "t": [
+    {
+      "pregunta": "Con la T. Mamífero felino de gran tamaño, piel de color amarillo con rayas negras transversales.",
+      "respuesta": "Tigre",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la T. Medio de transporte formado por una serie de vagones enlazados que circulan sobre raíles.",
+      "respuesta": "Tren",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la T. Edificio alto de muchos pisos.",
+      "respuesta": "Torre",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la T. Nombre del transatlántico británico que se hundió en su viaje inaugural en 1912.",
+      "respuesta": "Titanic",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la T. Reptil cuyo cuerpo está protegido por un caparazón duro.",
+      "respuesta": "Tortuga",
+      "dificultad": "niños"
+    }
+  ],
+  "u": [
+    {
+      "pregunta": "Con la U. Fruto comestible que crece en racimos, con el que se produce el vino.",
+      "respuesta": "Uva",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la U. Conjunto de todo lo que tiene existencia física, en la Tierra y fuera de ella.",
+      "respuesta": "Universo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la U. País sudamericano cuya capital es Montevideo.",
+      "respuesta": "Uruguay",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la U. Héroe legendario de la mitología griega, protagonista de 'La Odisea'.",
+      "respuesta": "Ulises",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la U. Criatura mitológica representada como un caballo blanco con un cuerno en la frente.",
+      "respuesta": "Unicornio",
+      "dificultad": "niños"
+    }
+  ],
+  "v": [
+    {
+      "pregunta": "Con la V. Hembra del toro, mamífero rumiante del que se aprovecha la leche, la carne y la piel.",
+      "respuesta": "Vaca",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la V. Recipiente de vidrio, metal u otra materia, por lo común de forma cilíndrica, que sirve para beber.",
+      "respuesta": "Vaso",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la V. País sudamericano famoso por el Salto Ángel, la cascada más alta del mundo.",
+      "respuesta": "Venezuela",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la V. Apellido del pintor neerlandés, uno de los principales exponentes del postimpresionismo, autor de 'La noche estrellada'.",
+      "respuesta": "Van Gogh",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la V. Abertura en la tierra por donde salen humo, llamas y materias encendidas.",
+      "respuesta": "Volcán",
+      "dificultad": "niños"
+    }
+  ],
+  "w": [
+    {
+      "pregunta": "Con la W. Deporte acuático en el que dos equipos compiten por introducir un balón en la portería contraria.",
+      "respuesta": "Waterpolo",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la W. Red informática mundial.",
+      "respuesta": "Web",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la W. Marca de automóviles alemana, cuyo nombre significa 'coche del pueblo'.",
+      "respuesta": "Volkswagen",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la W. Famoso festival de música y arte celebrado en Estados Unidos en 1969.",
+      "respuesta": "Woodstock",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la W. Bebida alcohólica obtenida por la destilación de la malta fermentada de cereales.",
+      "respuesta": "Whisky",
+      "dificultad": "niños"
+    }
+  ],
+  "x": [
+    {
+      "pregunta": "Con la X. Instrumento musical de percusión, formado por láminas de madera o metal que se golpean con baquetas.",
+      "respuesta": "Xilófono",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la X. Rechazo u odio hacia los extranjeros.",
+      "respuesta": "Xenofobia",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la X. Consola de videojuegos creada por la empresa Microsoft.",
+      "respuesta": "Xbox",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la X. Elemento químico gaseoso, noble e incoloro, presente en la atmósfera.",
+      "respuesta": "Xenón",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la X. Grupo de superhéroes de Marvel Comics dirigidos por el profesor Charles Xavier.",
+      "respuesta": "X-Men",
+      "dificultad": "niños"
+    }
+  ],
+  "y": [
+    {
+      "pregunta": "Con la Y. Parte central y amarilla del huevo.",
+      "respuesta": "Yema",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Y. Disciplina física y mental originaria de la India que busca el equilibrio y la armonía.",
+      "respuesta": "Yoga",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Y. Embarcación de recreo de lujo, a vela o a motor.",
+      "respuesta": "Yate",
+      "dificultad": "adultos"
+    },
+    {
+      "pregunta": "Con la Y. Criatura legendaria del Himalaya, también conocida como el abominable hombre de las nieves.",
+      "respuesta": "Yeti",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Y. Moneda oficial de China.",
+      "respuesta": "Yuan",
+      "dificultad": "adultos"
+    }
+  ],
+  "z": [
+    {
+      "pregunta": "Con la Z. Calzado que cubre el pie y parte del tobillo.",
+      "respuesta": "Zapato",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Z. Mamífero carnívoro de pelaje rojizo y cola larga, conocido por su astucia.",
+      "respuesta": "Zorro",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Z. Hortaliza de raíz de color naranja y forma cónica.",
+      "respuesta": "Zanahoria",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Z. Lugar donde se conservan, cuidan y crían diversas especies de animales para su exhibición.",
+      "respuesta": "Zoológico",
+      "dificultad": "niños"
+    },
+    {
+      "pregunta": "Con la Z. Piedra preciosa, variedad del corindón, de color azul.",
+      "respuesta": "Zafiro",
+      "dificultad": "adultos"
+    }
+  ]
+}
