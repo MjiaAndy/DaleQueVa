@@ -22,7 +22,7 @@ export default function PantallaJuego({ preguntas, setPreguntas }: PantallaJuego
   const [puntuacion, setPuntuacion] = useState(0);
 
   useEffect(() => {
-    if (tiempoRestante <= 0 || !preguntas[preguntaActualIndex]) {
+    if (tiempoRestante <= 0) {
       setJuegoTerminado(true);
       return;
     }
@@ -32,14 +32,16 @@ export default function PantallaJuego({ preguntas, setPreguntas }: PantallaJuego
     }, 1000);
 
     return () => clearTimeout(timer);
-  }, [tiempoRestante, preguntaActualIndex, preguntas]);
+  }, [tiempoRestante]);
 
   const manejarEnvioRespuesta = (e: React.FormEvent) => {
     e.preventDefault();
+    if (juegoTerminado) return;
+    
     const esCorrecto = respuestaUsuario.toLowerCase() === preguntas[preguntaActualIndex].respuesta.toLowerCase();
 
     const preguntasActualizadas = [...preguntas];
-
+    
     if (esCorrecto) {
       preguntasActualizadas[preguntaActualIndex].estadoRespuesta = 'correcto';
       setPuntuacion(puntuacion + 1);
@@ -49,36 +51,34 @@ export default function PantallaJuego({ preguntas, setPreguntas }: PantallaJuego
 
     setPreguntas(preguntasActualizadas);
     setRespuestaUsuario('');
-
-    // Encuentra la siguiente pregunta que no haya sido respondida
-    let siguienteIndex = (preguntaActualIndex + 1) % preguntas.length;
-    while (preguntas[siguienteIndex].estadoRespuesta && siguienteIndex !== preguntaActualIndex) {
-      siguienteIndex = (siguienteIndex + 1) % preguntas.length;
-    }
-
-    if (siguienteIndex === preguntaActualIndex && preguntas[preguntaActualIndex].estadoRespuesta) {
+    
+    const preguntasSinResponder = preguntasActualizadas.filter(p => !p.estadoRespuesta || p.estadoRespuesta === 'sin_responder');
+    
+    if (preguntasSinResponder.length === 0) {
         setJuegoTerminado(true);
     } else {
-        setPreguntaActualIndex(siguienteIndex);
+        const siguientePregunta = preguntasSinResponder[0];
+        const nuevoIndex = preguntasActualizadas.indexOf(siguientePregunta);
+        setPreguntaActualIndex(nuevoIndex);
     }
   };
 
   const obtenerClaseLetra = (index: number) => {
-      const pregunta = preguntas[index];
-      if (!pregunta) {
-          return 'bg-gray-400';
-      }
-      if (preguntaActualIndex === index && !juegoTerminado) {
-          return 'bg-blue-500';
-      }
-      switch (pregunta.estadoRespuesta) {
-          case 'correcto':
-              return 'bg-green-500';
-          case 'incorrecto':
-              return 'bg-red-500';
-          default:
-              return 'bg-gray-400';
-      }
+    const pregunta = preguntas[index];
+    if (!pregunta) {
+      return 'bg-gray-400';
+    }
+    if (preguntaActualIndex === index && !juegoTerminado) {
+      return 'bg-blue-500';
+    }
+    switch (pregunta.estadoRespuesta) {
+      case 'correcto':
+        return 'bg-green-500';
+      case 'incorrecto':
+        return 'bg-red-500';
+      default:
+        return 'bg-gray-400';
+    }
   };
 
   return (
